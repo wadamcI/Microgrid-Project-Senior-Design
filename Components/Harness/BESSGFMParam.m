@@ -79,7 +79,7 @@ transformer.SecondaryReactancePU = 0.11493;
 transformer.ZeroSequenceReactancePU = 0.084282;
 
 bessSystem.plantRating = 2000;%2200;
-bessSystem.frequency = 50;
+bessSystem.frequency = 60;
 bessSystem.Vdc = 1500;
 bessSystem.filterInductance = 1e-5;
 bessSystem.filterResistance = 1e-3;

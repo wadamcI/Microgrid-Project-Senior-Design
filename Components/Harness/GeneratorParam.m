@@ -8,7 +8,7 @@ Ts = 5E-5;
 
 generator = struct;
 generator.rating = 1000;%5700;
-generator.frequency = 50;
+generator.frequency = 60;
 generator.polePairs = 1;
 generator.Vac = 690;
 
@@ -28,7 +28,7 @@ machine.XdTransient = 0.13/2;
 machine.XqTransient = 0.17/2;
 machine.XdSubTransient = 0.09/2;
 machine.XqSubTransient = 0.12/2;
-machine.frequency = 50;
+machine.frequency = 60;
 machine.tauDAxisTransient = 0.75;
 machine.tauDAxisSubTransient = 0.03;
 machine.tauQAxisTransient = 0.6;
